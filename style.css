@@ -1,0 +1,14 @@
+.heading{
+    font-size: 50px;
+    width:80%;
+}
+body{
+    background-color: lightcoral;
+}
+.webcam,.result{
+    border-style:dashed;
+    border-color: black;
+    border-width: 1px;
+    width: 350px;
+    height: 300px;
+}
